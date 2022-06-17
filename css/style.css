@@ -472,14 +472,14 @@ footer h3{
 
 @media (max-width:500px){
     .link_item{
-        height: 30vw;
-	width: 65vw;
+        height: 50vw;
+	width: 90vw;
     }
 	.links{
 	gap:70px;
 	}
 }
-
+/* 
 @media (max-width:400px){
     .link_item{
         height: 35vw;
@@ -492,5 +492,5 @@ footer h3{
         height: 40vw;
         width: 40vw;
     }
-}
+} */
 /* End Adaptive  */
