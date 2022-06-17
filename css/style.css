@@ -470,4 +470,23 @@ footer h3{
     }
 }
 
+@media (max-width:500px){
+    .link_item{
+        height: 30vw;
+    }
+}
+
+@media (max-width:400px){
+    .link_item{
+        height: 35vw;
+        width: 65vw;
+    }
+}
+
+@media (max-width:300px){
+    .link_item{
+        height: 40vw;
+        width: 40vw;
+    }
+}
 /* End Adaptive  */
