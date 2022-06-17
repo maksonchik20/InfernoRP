@@ -474,6 +474,7 @@ footer h3{
     .link_item{
         height: 50vw;
 	width: 90vw;
+	margin-bottom:15px;
     }
 	.links{
 	gap:100px;
